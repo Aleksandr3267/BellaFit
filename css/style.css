@@ -246,6 +246,7 @@ button {
     letter-spacing: 0.15em;
     text-transform: uppercase;
     font-size: 2.2rem;
+    font-weight: 400;
 }
 .about-us .about-us-container .text{
     margin-top: 50px;
